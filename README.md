@@ -187,5 +187,5 @@ Delete the load balancer (by deleting the Service) before deleting the cluster, 
 ## What comes next
 
 You now have full CI/CD to Kubernetes. The next steps in the real world are to trigger builds automatically on every push with a GitHub webhook, to package your manifests with Helm so they are reusable, and to adopt a GitOps tool so the cluster syncs itself from Git. Those build directly on what you have here.
-#   j e n k i n s - c i c d - p r o j e c t - 4 - k 8 s  
- 
+# jenkins-cicd-project-4-k8s
+
